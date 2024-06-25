@@ -1,0 +1,1 @@
+Your CDK code needs to be in this directory, and in the guide, specify another directory for them to follow along
